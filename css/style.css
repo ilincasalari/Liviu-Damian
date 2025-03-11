@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: rgb(2, 2, 54);
+}
+@media only screen and (max-width: 600px){
+body{
+    background-color: beige;
+}
+}
